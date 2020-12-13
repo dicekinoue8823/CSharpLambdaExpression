@@ -1,0 +1,9 @@
+C:\Users\DICEK88\source\repos\CSharpLambdaExpression\WinApp\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\DICEK88\source\repos\CSharpLambdaExpression\WinApp\WinApp\bin\Debug\WinApp.exe
+C:\Users\DICEK88\source\repos\CSharpLambdaExpression\WinApp\WinApp\bin\Debug\WinApp.pdb
+C:\Users\DICEK88\source\repos\CSharpLambdaExpression\WinApp\WinApp\obj\Debug\WinApp.Form1.resources
+C:\Users\DICEK88\source\repos\CSharpLambdaExpression\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\DICEK88\source\repos\CSharpLambdaExpression\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+C:\Users\DICEK88\source\repos\CSharpLambdaExpression\WinApp\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+C:\Users\DICEK88\source\repos\CSharpLambdaExpression\WinApp\WinApp\obj\Debug\WinApp.exe
+C:\Users\DICEK88\source\repos\CSharpLambdaExpression\WinApp\WinApp\obj\Debug\WinApp.pdb
